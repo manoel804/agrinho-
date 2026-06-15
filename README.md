@@ -19,4 +19,4 @@ O script executa a análise cruzada entre o aumento de matéria orgânica e a re
 
 ![Gráfico de Evolução Regenerativa](grafico_regenerativo.png)
 
-*Os dados demonstram a eficiência da recuperação do solo ao longo de um ciclo de 12 meses.*
+*Os dados demonstram a eficiência da recuperação do solo ao longo de um ciclo de 12 meses.*.
