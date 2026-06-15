@@ -4,4 +4,4 @@ function mostrarMensagem(){
 
   mensagem.innerHTML =
   "🌎 A sustentabilidade garante alimentos hoje sem prejudicar as futuras gerações!";
-}
+}.
