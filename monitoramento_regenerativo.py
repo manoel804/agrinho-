@@ -47,5 +47,5 @@ except FileNotFoundError:
     plt.savefig('grafico_regenerativo.png', dpi=300)
     print("Sucesso! Pasta 'imagens' não encontrada. Imagem salva na raiz como 'grafico_regenerativo.png'")
 
-# Exibe o resultado na tela
+# Exibe o resultado na tela.
 plt.show()
